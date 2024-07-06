@@ -1,10 +1,31 @@
 package Programmer.testing.MembuatTest;
 
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
+import Programmer.testing.MembuatTest.Calculator;
 
 public class CalculatorTest {
+
+    @BeforeAll
+    static void setupAll() {
+        System.out.println("Initializing shared resources...");
+        Object calculator = new Calculator();
+        System.out.println(calculator);
+    }
+
+    @AfterAll
+    static void cleanupAll() {
+        System.out.println("Releasing shared resources...");
+    }
+
+    @BeforeEach
+    void setup() {
+        System.out.println("Preparing test environment...");
+    }
+
+    @AfterEach
+    void cleanup() {
+        System.out.println("Cleaning up test environment...");
+    }
 
     @Test
     @DisplayName("Membagi dengan Nol")
