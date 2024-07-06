@@ -9,6 +9,7 @@ public class OrderedTest {
 
     private int counter = 0;
 
+
     @BeforeAll
     void beforeAll() {
 
