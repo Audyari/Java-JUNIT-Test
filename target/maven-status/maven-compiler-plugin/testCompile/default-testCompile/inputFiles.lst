@@ -1,5 +1,17 @@
-D:\JAVA\Java JUNIT\Belajar-JUNIT\src\test\java\Programmer\testing\MenggunakanTag\SampleIntegrationTest.java
-D:\JAVA\Java JUNIT\Belajar-JUNIT\src\test\java\Programmer\testing\MenggunakanAssumptions\SimpleDisplayNameGenerator.java
-D:\JAVA\Java JUNIT\Belajar-JUNIT\src\test\java\Programmer\testing\MenggunakanAssumptions\CalculatorTest.java
-D:\JAVA\Java JUNIT\Belajar-JUNIT\src\test\java\Programmer\testing\TestBerdasarkanKondisi\ConditionTest.java
-D:\JAVA\Java JUNIT\Belajar-JUNIT\src\test\java\Programmer\testing\MembuatTest\CalculatorTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\MenggunakanAssumptions\CalculatorTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\MenggunakanAssumptions\SimpleDisplayNameGenerator.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\UrutanEksekusiTest\OrderedTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\DependencyInjectiondiTest\AbstractCalculatorTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\DependencyInjectiondiTest\RandomCalculatorTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\TestdidalamTest\QueueTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\MembuatTest\CalculatorTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\PengenalanMocking\MockTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\DependencyInjectiondiTest\RandomParameterResolver.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\UrutanEksekusiTest\LifecycleTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\TestBerdasarkanKondisi\ConditionTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\TimeoutdiTest\SlowTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\MenggunakanTag\SampleIntegrationTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\ProblemSolving\dua\PenggunaanAssertionsAppTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\ProblemSolving\satu\CalkulatorTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\InformasiTest\InformationTest.java
+D:\JAVA\Java Unit Test\Java-JUNIT-Test\src\test\java\Programmer\testing\service\PersonServiceTest.java
