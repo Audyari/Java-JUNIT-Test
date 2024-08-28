@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: Programmer.testing.MembuatTest.CalculatorTest
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.006 s <<< FAILURE! - in Programmer.testing.MembuatTest.CalculatorTest
+Tests run: 7, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.023 s <<< FAILURE! - in Programmer.testing.MembuatTest.CalculatorTest
 testDivideByZero  Time elapsed: 0.001 s  <<< FAILURE!
 org.opentest4j.AssertionFailedError: Unexpected exception type thrown, expected: <java.lang.IllegalArgumentException> but was: <java.lang.ArithmeticException>
 	at Programmer.testing.MembuatTest.CalculatorTest.testDivideByZero(CalculatorTest.java:39)

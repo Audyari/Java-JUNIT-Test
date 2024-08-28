@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Programmer.testing.PengenalanMocking.MockTest" time="2.074" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Programmer.testing.PengenalanMocking.MockTest" time="3.085" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="D:\JAVA\jdk-22.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\itadmin\AppData\Local\Temp\surefire4471993871933209459\surefirebooter11859838841074476110.jar C:\Users\itadmin\AppData\Local\Temp\surefire4471993871933209459 2024-08-27T13-31-42_921-jvmRun1 surefire12739427034641872318tmp surefire_09996756803829144814tmp"/>
+    <property name="sun.java.command" value="C:\Users\itadmin\AppData\Local\Temp\surefire11358853795690117989\surefirebooter16235997539074002219.jar C:\Users\itadmin\AppData\Local\Temp\surefire11358853795690117989 2024-08-28T11-18-56_074-jvmRun1 surefire3481100380832121498tmp surefire_017592060382189934346tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\JAVA\Java Unit Test\Java-JUNIT-Test\target\test-classes;D:\JAVA\Java Unit Test\Java-JUNIT-Test\target\classes;C:\Users\itadmin\.m2\repository\org\junit\jupiter\junit-jupiter\5.11.0\junit-jupiter-5.11.0.jar;C:\Users\itadmin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\itadmin\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\itadmin\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\itadmin\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\itadmin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.0\junit-jupiter-params-5.11.0.jar;C:\Users\itadmin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.11.0\junit-jupiter-engine-5.11.0.jar;C:\Users\itadmin\.m2\repository\org\junit\platform\junit-platform-engine\1.11.0\junit-platform-engine-1.11.0.jar;C:\Users\itadmin\.m2\repository\org\mockito\mockito-junit-jupiter\5.12.0\mockito-junit-jupiter-5.12.0.jar;C:\Users\itadmin\.m2\repository\org\mockito\mockito-core\5.12.0\mockito-core-5.12.0.jar;C:\Users\itadmin\.m2\repository\net\bytebuddy\byte-buddy\1.14.15\byte-buddy-1.14.15.jar;C:\Users\itadmin\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.15\byte-buddy-agent-1.14.15.jar;C:\Users\itadmin\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;C:\Users\itadmin\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\itadmin\AppData\Local\Temp\surefire4471993871933209459\surefirebooter11859838841074476110.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\itadmin\AppData\Local\Temp\surefire11358853795690117989\surefirebooter16235997539074002219.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="22.0.1+8-16"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="testMock" classname="Programmer.testing.PengenalanMocking.MockTest" time="2.066"/>
+  <testcase name="testMock" classname="Programmer.testing.PengenalanMocking.MockTest" time="3.078"/>
 </testsuite>
