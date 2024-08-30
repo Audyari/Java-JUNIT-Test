@@ -1,8 +1,7 @@
 package Programmer.testing.ProblemSolving.sebelas;
 
 
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.TestInstance;
+import org.junit.jupiter.api.*;
 
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
@@ -29,5 +28,24 @@ public class LiveCircleMetode {
         var hasil = nilai++;
         System.out.println(hasil);
 
+    }
+
+    @BeforeEach
+    void setUp() {
+
+    }
+
+
+
+    @Test
+    @BeforeAll
+    void beforeAll() {
+        System.out.println("test tanpa static");
+    }
+
+    @Test
+    @AfterAll
+    void afterAll() {
+        System.out.println("Test Pake Static");
     }
 }
