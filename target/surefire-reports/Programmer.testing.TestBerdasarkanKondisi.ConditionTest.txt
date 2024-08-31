@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: Programmer.testing.TestBerdasarkanKondisi.ConditionTest
--------------------------------------------------------------------------------
-Tests run: 11, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 0.123 s - in Programmer.testing.TestBerdasarkanKondisi.ConditionTest
